@@ -11,7 +11,7 @@ I am a passionate coder diving into various projects to enhance my skills in web
 ### 🛠️ My Skills
 - JavaScript
 - HTML
-- CSS
+- CSSS
 - Python
 - Web Development
 - Frontend Development
