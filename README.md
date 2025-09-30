@@ -1,93 +1,38 @@
-## JavohirDITE - GitHub Profile
+## 👋 Hi there, I'm JavohirDITE!
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=JavohirDITE)](https://github.com/JavohirDITE)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavohirDITE)](https://github.com/JavohirDITE)
-[![trophy](https://github-profile-trophy.vercel.app/?username=JavohirDITE)](https://github.com/JavohirDITE)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JavohirDITE)](https://git.io/streak-stats)
+I am a passionate coder diving into various projects to enhance my skills in web development and Python scripting. With an ever-growing curiosity, I strive to contribute meaningfully to open-source projects while honing my frontend expertise in JavaScript, HTML, and CSS.
 
----
+### 👨‍💻 About Me
+- 🌱 Created my GitHub profile in January 2022 
+- 💼 Actively involved in multiple repositories
+- 🔥 Love collaborating and supporting open-source projects
+- 🚀 Aiming to expand my skill set across different coding domains
 
-```javascript
-const JavohirDITE = {
-    pronouns: "He",
-    code: ["HTML", "JavaScript", "CSS", "C#"],
-    technologies: {
-        frontEnd: {
-            HTML: ["HTML5"],
-            CSS: ["Bootstrap"]
-        },
-        backEnd: {
-            C#: ["ASP.NET Core"]
-        },
-        databases: ["SQL Server"],
-    },
-    currentFocus: "Web Development",
-    askMeAbout: ["Web Development", "API Integration"],
-    funFact: "Coding is my caffeine!"
-};
-```
+### 🛠️ My Skills
+- JavaScript
+- HTML
+- CSS
+- Python
+- Web Development
+- Frontend Development
 
----
+### 🌟 GitHub Stats
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JavohirDITE)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavohirDITE)
+- [![trophy](https://github-profile-trophy.vercel.app/?username=JavohirDITE)](https://github.com/JavohirDITE)
+- [![GitHub Streak](https://streak-stats.demolab.com/?user=JavohirDITE)](https://git.io/streak-stats)
 
-### Hi there, I'm Javohir! 👋
+### 🚀 Project Highlights
+- [Manchester City Website](https://github.com/JavohirDITE/Manchester_City_Website)
+- [JavohirDITE Repository](https://github.com/JavohirDITE/JavohirDITE)
+- [PBL Project](https://github.com/JavohirDITE/PBL-Project)
+- [Medical Center](https://github.com/JavohirDITE/Medical-Center)
 
-I'm a developer with a passion for web development and a love for creating meaningful projects. I enjoy working with languages like HTML, JavaScript, CSS, and C# to craft user-friendly and dynamic web applications. With a total of 4 public repositories and 87 total commits, I strive for consistency and quality in my coding habits.
+### 💬 Get In Touch
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/javohir-dite/) 
+- Drop me an [Email](mailto:javohir@example.com)
 
-#### 🔭 My Latest Projects 
+### 🌐 Explore More
+#### Check out my projects and dive into the world of coding!
 
-- [Manchester_City_Website](https://github.com/JavohirDITE/Manchester_City_Website)
-- [Medical-Center](https://github.com/JavohirDITE/Medical-Center)
-- [PBL-Project](https://github.com/Karimov-Akbar/PBL-Project) - Most Starred
-
-#### 🌱 Tech Stack
-
-- Frontend: HTML, JavaScript, CSS
-- Backend: C#
-- Database: SQL Server
-
-#### 💬 Get in Touch
-
-- LinkedIn: [Connect with Me!](https://www.linkedin.com/in/javohirdite)
-- Email: javohir@example.com
-
----
-
-### GitHub Analysis
-
-- **Repositories Created:** 4
-- **Total Commits:** 87
-- **Languages Used:** JavaScript (Frequent), HTML, CSS, C#
-- **Contributions to Other Projects:** 4
-- **Most Starred Repository:** 'PBL-Project'
-
-With a keen interest in web development and a collaborative approach to projects, I look forward to expanding my skills and contributing to the tech community.
-
----
-
-### Let's Connect and Code Together!
-
-Feel free to reach out for collaboration, coding challenges, or just a tech chat. Excited to be part of the GitHub community and create amazing code together!
-
-```javascript
-console.log("Happy Coding! 😄");
-```
-
---- 
-
-![Visitor Count](https://profile-counter.glitch.me/JavohirDITE/count)
-
-[![LinkedIn](https://img.shields.io/badge/Connect-JavohirDITE-blue)](https://www.linkedin.com/in/javohirdite)
-[![Email](https://img.shields.io/badge/Email-JavohirDITE-blue)](mailto:javohir@example.com)
-
-```javascript
-while (day){
-    console.log("Keep Coding! 🚀");
-}
-``` 
-
---- 
-
-Designed with ❤️ by JavohirDITE
-
----
-
+Thank you for stopping by and exploring my GitHub profile. Let's continue to learn, grow, and code together! 🚀✨
