@@ -1,7 +1,5 @@
 ## 👋 Hi there, I'm JavohirDITE!
 
-(https://99px.ru/sstorage/1/2024/04/image_11404242014335768846.gif)
-
 I am a passionate coder diving into various projects to enhance my skills in web development and Python scripting. With an ever-growing curiosity, I strive to contribute meaningfully to open-source projects while honing my frontend expertise in JavaScript, HTML, and CSS.
 
 ### 👨‍💻 About Me
