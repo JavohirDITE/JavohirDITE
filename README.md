@@ -29,8 +29,8 @@ I am a passionate coder diving into various projects to enhance my skills in web
 - [Medical Center](https://github.com/JavohirDITE/Medical-Center)
 
 ### 💬 Get In Touch
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/javohir-dite/) 
-- Drop me an [Email](mailto:javohir@example.com)
+- Connect with me on [Telegram](https://t.me//KolosLOL) 
+- Drop me an [Email](mailto:jzokirjonov383@gmail.com)
 
 ### 🌐 Explore More
 #### Check out my projects and dive into the world of coding!
