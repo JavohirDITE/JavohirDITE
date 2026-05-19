@@ -15,8 +15,6 @@ I'm a **Backend Developer** with experience in building scalable web application
 - **DevOps & Architecture:** Docker, Linux, REST API, Git/GitHub
 
 ### 🌟 GitHub Stats
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JavohirDITE&theme=radical&show_icons=true)
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavohirDITE&theme=radical&layout=compact)
 - [![trophy](https://github-profile-trophy.vercel.app/?username=JavohirDITE&theme=radical)](https://github.com/JavohirDITE)
 - [![GitHub Streak](https://streak-stats.demolab.com/?user=JavohirDITE&theme=radical)](https://git.io/streak-stats)
 
