@@ -139,11 +139,11 @@ Polyglot by choice — I pick the right tool, then go deep.
 
 ---
 
-### 📈 Contribution graph
+### 🐍 Contribution graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JavohirDITE&bg_color=0a0a12&color=a78bfa&line=f0abfc&point=ffffff&area=true&area_color=4c1d95&hide_border=true&radius=12" alt="activity graph"/>
+<img src="https://raw.githubusercontent.com/JavohirDITE/JavohirDITE/output/snake.svg" alt="snake animation"/>
 
 </div>
 
