@@ -135,8 +135,6 @@ Polyglot by choice — I pick the right tool, then go deep.
 
 <img src="https://streak-stats.demolab.com?user=JavohirDITE&hide_border=true&background=0a0a12&stroke=2a2540&ring=a78bfa&fire=f0abfc&currStreakNum=e9e5f2&sideNums=e9e5f2&currStreakLabel=a78bfa&sideLabels=9b9ba6&dates=6f6883" alt="streak"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=JavohirDITE&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="trophies"/>
-
 </div>
 
 ---
